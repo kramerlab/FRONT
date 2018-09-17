@@ -1,0 +1,1 @@
+{'run': 1, 'out_file': '1', 'out_dir': '.', 'H': 10, 'M': 12, 'subtree': False, 'tree': 'NTree', 'time_score': 106.92500019073486, 'score': -27.51241137852467, 'time_build': 1.9000000953674316, 'in_file': '../data/shuttle.csv', 'eval': 'AvgLog', 'zeta': 0.1, 'type': 'NBForest', 'profileMode': 'classic', 'profileArgs': 'size=512'}
